@@ -1,11 +1,12 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+- Yujie Zhang
+- Margarita Leonova
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+[LINK TO MY PUBLISHED SITE](https://yuz876.github.io/Lab5/)
 
 ## Part 2:
 
