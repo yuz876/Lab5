@@ -10,4 +10,4 @@
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+LINK TO PART 2 REPOSITORY(https://github.com/mleonova/github-actions-for-ci)
