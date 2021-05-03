@@ -10,4 +10,4 @@
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+[LINK TO MY PART 2 REPOSITORY](https://github.com/yuz876/github-actions-for-ci/issues/7)
