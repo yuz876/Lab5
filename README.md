@@ -1,13 +1,8 @@
-# CSE110 SP21 Lab 5
+# Meme Generator - a web based application
 
-## Author(s):
-- Yujie Zhang
-- Margarita Leonova
+Please visit our Meme Generator web application here: [https://yuz876.github.io/Meme_Genearator/](https://yuz876.github.io/Meme_Genearator/).
 
-## Part 1:
+It is hosted by Github Page.
 
-[LINK TO OUR PUBLISHED SITE](https://yuz876.github.io/Lab5/)
-
-## Part 2:
 
 [LINK TO OUR PART 2 REPOSITORY](https://github.com/yuz876/github-actions-for-ci/issues/7)
